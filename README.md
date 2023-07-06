@@ -1,2 +1,2 @@
 # Buttons
-To make hardware development more easier with AI assitance .
+To make hardware development more easier within AI assitance .
